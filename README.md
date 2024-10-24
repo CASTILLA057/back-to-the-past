@@ -84,3 +84,4 @@ Una vez que hayan entregado su pull request, el destino del Proyecto Phoenix est
 El reto de **"Back to the Past - Proyecto Phoenix"** no es solo técnico, es un viaje en el tiempo, una misión para restaurar el código que una vez tuvo potencial. Esta actividad busca que los estudiantes no solo aprendan sobre **Git**, **HTML**, y **CSS**, sino que también experimenten lo que es trabajar en un proyecto real, colaborativo y basado en control de versiones.
 
 Como Restauradores del Tiempo, su objetivo es simple pero crucial: ¡salvar el código, salvar el futuro!
+Nota:Hice la creacion de un video sobre lo ultimo que esta inovando en la tecnologia a hoy en dia, agregue y mejore el titulo y los parrafos,subtitulos y demas colocando un mejor contexto, luego en saber sobre nosotros coloque una imagn respectiva en la ingenieria de la creacion de la tecnologia moderna.

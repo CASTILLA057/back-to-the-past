@@ -14,7 +14,10 @@ body {
     padding: 20px;
     text-align: center;
 }
-
+.main-header h2 {
+    font-size: 50px;
+    font-weight: 50px;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -35,6 +38,9 @@ nav ul li a {
     display: flex;
     justify-content: space-around;
     padding: 20px;
+}
+.main-content h2 {
+    color:black
 }
 
 .purpose-section,
